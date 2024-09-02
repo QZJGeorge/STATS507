@@ -1,2 +1,2 @@
 # STATS507
-coursework
+This repo hosts the coursework and term project for Zhijie Qiao.
